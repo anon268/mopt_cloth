@@ -1,1 +1,1 @@
-data/block2.h5 filter=lfs diff=lfs merge=lfs -text
+data/sample.h5 filter=lfs diff=lfs merge=lfs -text
